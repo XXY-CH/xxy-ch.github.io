@@ -12,6 +12,21 @@ module.exports = {
   },
 
   head,
-  plugins,
+  plugins:[
+    [
+      "vuepress-plugin-vssue-global",
+      {
+        platform: "github",
+        title: "[Comment]<%- frontmatter.title %>",
+        needComments: true,
+        // 其他的 Vssue 配置
+        autoCreateIssue: true,
+        clientId: "Ov23liLzxDGZmulfYUu3",
+        clientSecret: "a8a44615b70cfdf83c870ef9b3808ee664278d01",
+        owner: "xxy-ch",
+        repo: "xxy-ch.github.io",
+      },
+    ],
+  ],
   themeConfig,
 }
