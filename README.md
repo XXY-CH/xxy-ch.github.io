@@ -1,14 +1,14 @@
 <div align="center">
-<h1>vdoing-template</h1>
+<h1>xxy-ch.github.io</h1>
 
 [![Auth](https://img.shields.io/badge/Auth-eryajf-ff69b4)](https://github.com/eryajf)
-[![Status](https://img.shields.io/badge/status-active-success.svg)](https://github.com/eryajf/vdoing-template)
-[![GitHub Issues](https://img.shields.io/github/issues/eryajf/vdoing-template.svg)](https://github.com/eryajf/vdoing-template/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/eryajf/vdoing-template)](https://github.com/eryajf/vdoing-template/pulls)
-[![GitHub Pull Requests](https://img.shields.io/github/stars/eryajf/vdoing-template)](https://github.com/eryajf/vdoing-template/stargazers)
-[![GitHub license](https://img.shields.io/github/license/eryajf/vdoing-template)](https://github.com/eryajf/vdoing-template/blob/main/LICENSE)
-[![HitCount](https://views.whatilearened.today/views/github/eryajf/vdoing-template.svg)](https://github.com/eryajf/vdoing-template)
-[![website eryajf.github.io/vdoing-template](https://img.shields.io/website-up-down-green-red/http/eryajf.github.io/vdoing-template.svg)](https://eryajf.github.io/vdoing-template/)
+[![Status](https://img.shields.io/badge/status-active-success.svg)](https://github.com/xxy-ch/xxy-ch.github.io)
+[![GitHub Issues](https://img.shields.io/github/issues/xxy-ch/xxy-ch.github.io.svg)](https://github.com/xxy-ch/xxy-ch.github.io/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/xxy-ch/xxy-ch.github.io)](https://github.com/xxy-ch/xxy-ch.github.io/pulls)
+[![GitHub Pull Requests](https://img.shields.io/github/stars/xxy-ch/xxy-ch.github.io)](https://github.com/xxy-ch/xxy-ch.github.io/stargazers)
+[![GitHub license](https://img.shields.io/github/license/xxy-ch/xxy-ch.github.io)](https://github.com/xxy-ch/xxy-ch.github.io/blob/main/LICENSE)
+[![HitCount](https://views.whatilearened.today/views/github/xxy-ch/xxy-ch.github.io.svg)](https://github.com/xxy-ch/xxy-ch.github.io)
+[![website eryajf.github.io/xxy-ch.github.io](https://img.shields.io/website-up-down-green-red/http/eryajf.github.io/xxy-ch.github.io.svg)](https://eryajf.github.io/xxy-ch.github.io/)
 
 <p align="center"> 📖 Vdoing博客主题静态部署模板 📖</p>
 
@@ -39,7 +39,7 @@
 
 ## 初始配置
 
-首先访问模板仓库：[vdoing-template](https://github.com/eryajf/vdoing-template)。点击此仓库右侧的 `Use this template`
+首先访问模板仓库：[xxy-ch.github.io](https://github.com/xxy-ch/xxy-ch.github.io)。点击此仓库右侧的 `Use this template`
 
 ![image_20220721_153908](https://cdn.jsdelivr.net/gh/eryajf/tu/img/image_20220721_153908.png)
 
